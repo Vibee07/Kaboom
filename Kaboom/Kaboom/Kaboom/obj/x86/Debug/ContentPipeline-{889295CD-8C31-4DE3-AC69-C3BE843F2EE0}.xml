@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Backgrounds\KaboomBackground.PNG</Source>
+      <Name>Images\Backgrounds\KaboomBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Backgrounds\KaboomBackground.xnb</Output>
+      <Time>2017-11-27T11:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Chicken.png</Source>
+      <Name>Images\Pictures\Chicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Pictures\Chicken.xnb</Output>
+      <Time>2017-11-27T11:48:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Nest.png</Source>
+      <Name>Images\Pictures\Nest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Pictures\Nest.xnb</Output>
+      <Time>2017-11-27T19:38:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Whiteline.PNG</Source>
+      <Name>Images\Pictures\Whiteline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Pictures\Whiteline.xnb</Output>
+      <Time>2017-11-28T11:47:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\WhiteEgg.png</Source>
+      <Name>Images\Pictures\WhiteEgg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Pictures\WhiteEgg.xnb</Output>
+      <Time>2017-11-28T13:22:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\KaboomMenuScreen.png</Source>
+      <Name>Images\Backgrounds\KaboomMenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Backgrounds\KaboomMenuScreen.xnb</Output>
+      <Time>2017-12-06T17:39:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\FunnyChicken.png</Source>
+      <Name>Images\Pictures\FunnyChicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Pictures\FunnyChicken.xnb</Output>
+      <Time>2017-12-09T19:19:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\GameOverScreen.png</Source>
+      <Name>Images\Backgrounds\GameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Backgrounds\GameOverScreen.xnb</Output>
+      <Time>2017-12-09T20:02:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\StartButton.png</Source>
+      <Name>Images\Pictures\StartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Pictures\StartButton.xnb</Output>
+      <Time>2017-12-10T15:42:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\EggSplat.png</Source>
+      <Name>Images\Pictures\EggSplat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Pictures\EggSplat.xnb</Output>
+      <Time>2017-12-11T19:21:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\FarmLand.png</Source>
+      <Name>Images\Backgrounds\FarmLand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Images\Backgrounds\FarmLand.xnb</Output>
+      <Time>2017-12-12T17:39:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Text.spritefont</Source>
+      <Name>Fonts\Text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Fonts\Text.xnb</Output>
+      <Time>2017-11-27T12:41:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\scoreText.spritefont</Source>
+      <Name>Fonts\scoreText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Fonts\scoreText.xnb</Output>
+      <Time>2018-09-13T18:38:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Sound Effect\RoosterMorningCall.wav</Source>
+      <Name>Audio\Sound Effect\RoosterMorningCall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Audio\Sound Effect\RoosterMorningCall.xnb</Output>
+      <Time>2017-12-11T12:29:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Sound Effect\ChickenBuck.wav</Source>
+      <Name>Audio\Sound Effect\ChickenBuck</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Audio\Sound Effect\ChickenBuck.xnb</Output>
+      <Time>2017-12-12T17:26:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\CountryMusic.mp3</Source>
+      <Name>Audio\Songs\CountryMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Audio\Songs\CountryMusic.xnb</Output>
+      <Extra>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\Audio\Songs\CountryMusic.wma</Extra>
+      <Time>2017-12-11T13:04:04-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{889295CD-8C31-4DE3-AC69-C3BE843F2EE0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\KaboomContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A3_Advanced_Programming\Kaboom\Kaboom\Kaboom\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-02-19T23:36:24.3164466-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
